@@ -1,7 +1,7 @@
 {
     'name': 'Vendor Bill Overpayment Prevention',
 
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': """
         Prevents overpayment on Vendor Bills by validating payments against bill totals.
     """,
